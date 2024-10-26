@@ -25,7 +25,7 @@ I am a programmer <img src="https://media.giphy.com/media/l2Je3ktsieOfOGa1G/giph
 - 🌱 Enthusiastic about applying **AI in Healthcare** to improve lives.
 - 🤝 Open to **collaborations** on innovative projects and research initiatives.
 - 💬 **Ask me about:** Data Analytics, Machine Learning, or any tech you’re excited about!
-- 📫 **Reach me at:** [![Linkedin Badge](https://img.shields.io/badge/-ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimssmalik)
+- 📫 **Reach me at:** [![Linkedin Badge](https://img.shields.io/badge/-ibrahimssmalik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimssmalik)
 - ⚡ **Fun fact:** In my free time, I devour Udemy courses and stay up-to-date with tech articles.
 
 ---
