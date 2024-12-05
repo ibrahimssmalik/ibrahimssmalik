@@ -22,7 +22,7 @@
 I am a programmer <img src="https://media.giphy.com/media/l2Je3ktsieOfOGa1G/giphy.gif?cid=ecf05e47su8a16mawc8k0gmmepmjsex96zpyu3w6f9qs26b5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25">, aspiring to change the world through data.
 
 - 🎓 Currently pursuing a **Masters in Data Analytics** at the National College of Ireland.
-- 🌱 Enthusiastic about applying **AI in Healthcare** to improve lives.
+- 🌱 Passionate about applying **AI** across domains, especially healthcare, to improve lives.
 - 🤝 Open to **collaborations** on innovative projects and research initiatives.
 - 💬 **Ask me about:** Data Analytics, Machine Learning, or any tech you’re excited about!
 - 📫 **Reach me at:** [![Linkedin Badge](https://img.shields.io/badge/-ibrahimssmalik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimssmalik)
