@@ -12,21 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=ibrahimssmalik&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hey There, I'm Ibrahim<img src="https://media.giphy.com/media/3ov9jDblR6W2d6NfJC/giphy.gif" width="30px" style="vertical-align: middle;"/>
-</h1>
-
 ---
 
 ### :man_technologist: About Me
 
-I am a PhD researcher in Computer Science at Trinity College Dublin and IBM Research, focusing on AI security and machine learning.
+PhD researcher in Computer Science at Trinity College Dublin and IBM Research, focusing on AI security and machine learning.
 
 - 🎓 **PhD in Computer Science** | Trinity College Dublin & IBM Research
 - 🔬 Research interests: **LLM Security, Adversarial ML, AI Safety**
-- 🎖️ **MSc in Data Analytics** (First Class Honours) | National College of Ireland
-- 🤝 Open to **research collaborations** and innovative projects
-- 💬 **Ask me about:** Machine Learning Security, NLP, AI Systems
 - 📫 **Reach me at:** [![Linkedin Badge](https://img.shields.io/badge/-ibrahimssmalik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimssmalik)
 - ⚡ **Current focus:** Adversarial attacks on language models and ML system robustness
 
