@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git -C /Users/ibrahimmalik/documents/ibrahimssmalik log --oneline -5)",
-      "Bash(git -C /Users/ibrahimmalik/documents/ibrahimssmalik diff)"
-    ]
-  }
-}
